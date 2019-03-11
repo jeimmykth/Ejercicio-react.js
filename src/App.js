@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import NuevoComponente from './Homepage/navbar';
-
+import PrimeroUno from './Homepage/boton';
 class App extends Component {
   render() {
     return (
